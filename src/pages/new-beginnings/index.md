@@ -11,7 +11,7 @@ To keep this interesting for me, I decided to create my own blog, a central plac
 
 If you don't know what `gatsby` is, according to [their official website](https://www.gatsbyjs.org/), "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps"
 
-After deciding to build my personal blog, I was faced with chosing a name for it, and I settled with `Boffin`, which means a person engaged in scientific or technical research. That description resonated well with me because I'm on a journey of technical research, and this blog will house the results of my research.
+After deciding to build my personal blog, I was faced with chosing a name for it - naming things is the hardest part of this job. After much research and domain name searches I settled with `CodeNarrative` because it's a good representation of my goal with this blog. That name resonated well with me because I'm on a journey of technical research, and this blog will house the results of my research.
 
 Join me in this journey!
 

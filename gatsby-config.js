@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Boffin`,
+    title: `CodeNarrative`,
     author: {
       name: `Kingdom Orjiewuru`,
       summary: `I learn, and then I write.`,
@@ -91,8 +91,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Boffin`,
-        short_name: `Boffin`,
+        name: `CodeNarrative`,
+        short_name: `CodeNarrative`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#48afaa`,

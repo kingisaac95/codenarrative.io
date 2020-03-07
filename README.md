@@ -1,6 +1,6 @@
-# Boffin
+# codenarrative.io
 
-My personal blog bootstrapped with [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Dan Abramov's blog](https://github.com/gaearon/overreacted.io) with small tweaks.
+My personal blog. Forked from with [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Dan Abramov's blog](https://github.com/gaearon/overreacted.io) with small tweaks.
 
 To run locally
 
