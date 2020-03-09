@@ -6,7 +6,7 @@ module.exports = {
       summary: `I learn, and then I write.`,
     },
     description: `A blog by Kingdom Orjiewuru.`,
-    siteUrl: `https://boffin.netlify.com`,
+    siteUrl: `https://www.codenarrative.io/`,
     social: {
       twitter: `https://twitter.com/kingisaac95`,
       github: `https://github.com/kingisaac95`,
@@ -84,10 +84,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
       },
     },
-    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

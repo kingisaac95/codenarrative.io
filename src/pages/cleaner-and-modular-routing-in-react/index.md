@@ -1,6 +1,6 @@
 ---
 title: Cleaner and Modular Routing in React
-date: 2019-10-10
+date: 2020-02-27
 description: How to break down routing into cleaner modular pieces
 ---
 
@@ -237,3 +237,5 @@ With modules, we are not limited to just one level of simplification. We can cre
 For example, the /account route might render a dashboard, which in itself has many routes rendered in a sidebar component. We can create modules for the sidebar routes and neatly render them inside the accounts page, while still rendering our accounts page as a single module inside its parent component.
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” — Steve Jobs
+
+Originally published [on Medium](https://medium.com/software-insight/cleaner-and-modular-routing-in-react-92a6fcc97893).
