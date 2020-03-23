@@ -1,6 +1,6 @@
 ---
 title: What is JavaScript “in” operator
-date: 2020-03-20
+date: 2020-03-23
 ---
 
 How do you check if a value is in an object?
